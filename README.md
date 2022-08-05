@@ -50,7 +50,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanthienduc&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanthienduc&background=DD2727)](https://git.io/streak-stats)
 ![hanthienduc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanthienduc&show_icons=true&theme=radical)
 
