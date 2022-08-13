@@ -17,7 +17,7 @@
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam, currently living and working in Japan.
 
-- :telescope: I’m lifelong learner currently studying and contributing to frontend and backend for building web applications.
+- :telescope: I’m lifelong learner and like to studying and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Front-end Development, Technical Content Writing.
 
