@@ -19,7 +19,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m lifelong learner and like to studying and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Front-end Development, Technical Content Writing.
+- :seedling: Exploring Front-end Development.
 
 - :zap: In my free time, I like to learn new things in web development and read tech articles.
 
