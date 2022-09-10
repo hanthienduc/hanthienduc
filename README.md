@@ -15,9 +15,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam, currently living and working in Japan.
-
-- :telescope: I’m lifelong learner and like to studying and contributing to frontend and backend for building web applications.
+I am Ham, a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam, currently living and working in Japan.
 
 - :zap: In my free time, I like to learn new things in web development and read tech articles.
 
