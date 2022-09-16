@@ -15,7 +15,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am Ham, a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam, currently living and working in Japan.
+I am Han, a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam, currently living and working in Japan.
 
 - :zap: In my free time, I like to learn new things in web development and read tech articles.
 
